@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587159436 source:c:\users\zakar\documents\realisationpenduv2\functions.c
+	<stdio.h>
+	<time.h>
+
+1587159683 source:c:\users\zakar\documents\realisationpenduv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"Header.h"
+
+1587155728 c:\users\zakar\documents\realisationpenduv2\header.h
+
